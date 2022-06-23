@@ -1,0 +1,5 @@
+Comandos importantes no Git:
+
+git help 
+
+git clone  Clone a repository into a new directory
